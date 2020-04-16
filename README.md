@@ -1,2 +1,5 @@
 # hello-world
-Just another repository julia-ross project
+
+Greetings!
+
+Practicing this whole GitHub thing to learn and grow.
